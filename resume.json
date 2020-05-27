@@ -1,0 +1,149 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "skills": "Skills & Interests",
+    "projects": "Projects",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Joshua Cristol",
+    "email": "joshcristol@gmail.com",
+    "location": {
+      "address": "Austin, TX"
+    },
+    "phone": "(817) 995-8694"
+  },
+  "education": [
+    {
+      "institution": "University of Texas",
+      "location": "Austin, TX",
+      "area": "Computer Science",
+      "studyType": "Bachelors of Science",
+      "startDate": "Sep 2013",
+      "endDate": "Jun 2018"
+    },
+    {
+      "institution": "University of Texas",
+      "location": "Austin, TX",
+      "studyType": "Bachelors of Engineering",
+      "area": "Electrical and Computer Engineering",
+      "startDate": "Sep 2013",
+      "endDate": "Jun 2018"
+    }
+  ],
+  "work": [
+    {
+      "location": "Austin, TX",
+      "position": "Software Engineer II",
+      "website": "",
+      "endDate": "Present",
+      "highlights": [
+        "Instrumental in building technical platform behind rxsaver.com",
+        "Built out infrastructure and systems to begin making rxsaver hipaa ready",
+        "Mitigated several technical incidents and built systems to prevent future incidents",
+        "Architected CI/CD systems to make our infrastructure more auditable and easy to develop"
+      ],
+      "company": "RetailMeNot - RxSaver",
+      "startDate": "Auguest 2019"
+    },
+    {
+      "highlights": [
+        "Active contributor to React UI and infrastructure core code bases for features and technical debt",
+        "Increased developer and product efficiency by instrumenting review environments for every feature",
+        "Hardened infrastructure and api logic to ensure application could withstand media event traffic",
+        "Developed strong skills in managing applications running on Kubernetes"
+      ],
+      "company": "RetailMeNot - RxSaver",
+      "position": "Software Engineering I",
+      "location": "Austin, TX",
+      "startDate": "July 2018",
+      "endDate": "August 2019"
+    },
+    {
+      "highlights": [
+        " Contributed to backend microservice that supports Spredfast's social media marketing tool",
+        " First exposure to many modern web development tools and techniques such as Docker, Kubernetes, AWS, and React",
+        "Spent intern project time pruning and developing my skills as a web developer by building a Rick and Morty web application "
+      ],
+      "company": "Spredfast",
+      "position": "Software Engineering Intern",
+      "location": "Austin, TX",
+      "endDate": "August 2017",
+      "startDate": "May 2017"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": [
+        "JavaScript / React",
+        "Node",
+        "Python",
+        "Go",
+        "Java / Kotlin / Spring Boot"
+      ]
+    },
+    {
+      "keywords": [
+        "Terraform / Terragrunt",
+        "Kubernetes",
+        "AWS / GCP",
+        "Cloudflare"
+      ],
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
+        "Algolia",
+        "Optimizely",
+        "Segment",
+        "Gitlab",
+        "iterm2",
+        "vscode"
+      ],
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "Rock Climbing / Bouldering",
+        "Cooking",
+        "Taking care of my dog Fievel"
+      ],
+      "name": "Interests"
+    }
+  ],
+  "projects": [
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Texas Guadaloop, University of Texas Hyperloop Team",
+      "description": "Electrical lead on UT team that built a Hyperloop pod to compete in SpaceX's Hyperloop competition"
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Earl Grey",
+      "description": "Toy neural network written in Typescript to help me understand the mathematics behind AI",
+      "url": "github.com/jcristol/Earl-Grey"
+    }
+  ],
+  "awards": [
+    {
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
